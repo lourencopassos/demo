@@ -103,8 +103,8 @@
     ],
     "link_to_next_page": "since=5&per_page=5"
 }
-}, 
-{ "moreusers": {
+},
+ "moreusers": {
     "data": [
         {
             "login": "ivey",
