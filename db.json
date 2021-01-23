@@ -1,4 +1,4 @@
-{
+{ "users": {
     "data": [
         {
             "login": "mojombo",
@@ -102,4 +102,5 @@
         }
     ],
     "link_to_next_page": "since=5&per_page=5"
+}
 }
