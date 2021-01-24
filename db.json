@@ -153,5 +153,16 @@
         }
     ],
     "link_to_next_page": "since=19&per_page=5"
-  }
+  },
+  "singleuser": {
+          "data":
+        {
+            "login": "mojombo",
+            "id": 1,
+            "node_id": "MDQ6VXNlcjE=",
+            "avatar_url": "https://avatars.githubusercontent.com/u/1?v=4",
+            "url": "https://api.github.com/users/mojombo",
+            "repos_url": "https://api.github.com/users/mojombo/repos"
+        }
+    }
 }
